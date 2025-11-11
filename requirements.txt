@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+Pillow
+numpy
+faiss-cpu     # for vector similarity search (CPU)
+faiss-gpu     # if you have CUDA system
+ultralytics
